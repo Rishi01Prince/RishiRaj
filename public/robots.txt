@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://rishi01prince.github.io/sitemap-index.xml
+Host: https://rishi01prince.github.io
