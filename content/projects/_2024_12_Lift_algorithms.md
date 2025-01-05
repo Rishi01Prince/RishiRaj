@@ -1,8 +1,8 @@
 ---
 date: '2024-12'
 title: 'Lift Algorithms'
-github: 'https://github.com/RishiGrewal007/lift_algorithms'
-external: 'https://Rishigrewal007.github.io/lift_algorithms'
+github: 'https://github.com/ArmanGrewal007/lift_algorithms'
+external: 'https://armangrewal007.github.io/lift_algorithms'
 tech:
   - React
   - Vite

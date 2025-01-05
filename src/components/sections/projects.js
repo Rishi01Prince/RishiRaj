@@ -290,7 +290,7 @@ const Projects = () => {
 
   return (
     <StyledProjectsSection>
-      <h2 ref={revealTitle}>Projects | Certifications</h2>
+      {/* <h2 ref={revealTitle}>Projects | Certifications</h2>
 
       <Link className="inline-link archive-link" to="/archive" ref={revealArchiveLink}>
         <b>👉 View Certificate Archive 👈</b>
@@ -329,7 +329,7 @@ const Projects = () => {
 
       <button className="more-button" onClick={() => setShowMore(!showMore)}>
         Show {showMore ? 'Less' : 'More'}
-      </button>
+      </button> */}
     </StyledProjectsSection>
   );
 };
